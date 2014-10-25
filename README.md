@@ -1,4 +1,7 @@
-PHP-Input-Rules-Validation
-==========================
+PHP Input Rules Validation lib
+=================================
 
-Validate input on the way
+Just validate input easily and more securly
+this is simpliest class ever to check basic php post input
+you can add new validation rules..
+still some bugs need to be fixed..
