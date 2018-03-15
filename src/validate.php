@@ -1,7 +1,7 @@
 <?php
 	/*
 		Name: Validate Input Data [VID]
-		Author: filereal
+		Author: Muhammad Yaser
 		Description: this is best simple example to check your filed at once.
 		extend this class and add yor function return true and set custom errors 
 	*/
